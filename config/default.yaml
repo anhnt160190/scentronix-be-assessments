@@ -1,0 +1,6 @@
+name: scentronix-be-assesments
+port: 3000
+swagger:
+  path: /docs
+servers:
+  timeout: 5000
